@@ -11,7 +11,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=JOBIR-YASIR;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
 
-#INSTALL TOOL ON TERMUX AND RUN SCRIPT
+#####INSTALL TOOL ON TERMUX AND RUN SCRIPT
 
 
 git clone https://github.com/jobiryasir/Only-ok-id
