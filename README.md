@@ -12,8 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=JOBIR-YASIR;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
 
 
-Git clone https://github.com/jobiryasir/Only-ok-id
+git clone https://github.com/jobiryasir/Only-ok-id
 
-Cd Only-ok-id
+cd Only-ok-id
 
 python Ids.py
